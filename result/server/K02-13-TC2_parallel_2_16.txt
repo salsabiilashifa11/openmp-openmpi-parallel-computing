@@ -1,0 +1,5 @@
+Execution Time: 1.064894
+Minimum: 33591381
+Maksimum: 44681054
+Median: 36506810
+Mean: 37057578
